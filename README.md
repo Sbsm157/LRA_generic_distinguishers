@@ -23,7 +23,6 @@ This Git repository is associated with the article ```TODO``` available on ```TO
       </ul>
     </li>
     <li><a href="#citation">Citation</a></li>
-    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -148,11 +147,5 @@ If you use our code, model or wish to refer to our results, please use the follo
 ```
 TODO
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## References
-
-[GHMR17]  Sylvain Guilley, Annelie Heuser, Tang Ming, and Olivier Rioul. Stochastic side-channel leakage analysis via orthonormal decomposition. In Innovative Security Solutions for Information Technology and Communications: 10th International Conference, SecITC 2017, Bucharest, Romania, June 8–9, 2017, Revised Selected Papers 10, pages 12–27. Springer, 2017.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
