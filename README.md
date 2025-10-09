@@ -1,4 +1,4 @@
-# README
+# Generic-compatible distinguishers for linear regression based attacks
 
 <a id="readme-top"></a>
 
@@ -156,4 +156,5 @@ TODO
 [GHMR17]  Sylvain Guilley, Annelie Heuser, Tang Ming, and Olivier Rioul. Stochastic side-channel leakage analysis via orthonormal decomposition. In Innovative Security Solutions for Information Technology and Communications: 10th International Conference, SecITC 2017, Bucharest, Romania, June 8–9, 2017, Revised Selected Papers 10, pages 12–27. Springer, 2017.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
