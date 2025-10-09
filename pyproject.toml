@@ -3,7 +3,7 @@ name = "lra-code-poetry"
 version = "0.1.0"
 description = "Tooling for replicating experiments from the LRA paper."
 authors = [
-    {name = "sboussam",email = "sana.boussam@inria.fr"}
+    {name = "",email = ""}
 ]
 license = "LICENSE"
 readme = "README.md"
@@ -26,3 +26,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.requires-plugins]
 poetry-plugin-export = ">=1.8"
+
