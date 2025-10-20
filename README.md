@@ -2,7 +2,7 @@
 
 <a id="readme-top"></a>
 
-This Git repository is associated with the article *Generic-compatible distinguishers for linear regression based attacks* available on ```TODO``` .
+This Git repository is associated with the article *Generic-compatible distinguishers for linear regression based attacks* available on [Cryptology ePrint Archive](https://eprint.iacr.org/2025/1875).
 
 <!-- Table of contents -->
 <details>
@@ -146,7 +146,13 @@ For convenience, we provide the pip command below.
 
 If you use our code, model or wish to refer to our results, please use the following BibTex entry:
 ```
-TODO
+@misc{cryptoeprint:2025/1875,
+      author = {Sana Boussam},
+      title = {Generic-compatible distinguishers for linear regression based attacks},
+      howpublished = {Cryptology {ePrint} Archive, Paper 2025/1875},
+      year = {2025},
+      url = {https://eprint.iacr.org/2025/1875}
+}
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -156,5 +162,6 @@ TODO
 [GHMR17]  Sylvain Guilley, Annelie Heuser, Tang Ming, and Olivier Rioul. Stochastic side-channel leakage analysis via orthonormal decomposition. In Innovative Security Solutions for Information Technology and Communications: 10th International Conference, SecITC 2017, Bucharest, Romania, June 8–9, 2017, Revised Selected Papers 10, pages 12–27. Springer, 2017.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
